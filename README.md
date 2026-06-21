@@ -32,5 +32,3 @@ As a QA Engineer, I first analyzed the application manually to identify the crit
 3. Ensure Maven dependencies are downloaded.
 4. Run the tests using the `testng.xml` file or directly from the `SauceDemoTest` class.
 
-## 🤝 Author
-**Amruta Deshmukh** [GitHub Profile](https://github.com/amrutadeshmukh2308)
